@@ -35,9 +35,6 @@ public class BeginStreams {
         // printing all the characters.
         "this is it".chars().forEach(ch -> System.out.println((char)ch));
 
-
-
-
     }
 
 }
